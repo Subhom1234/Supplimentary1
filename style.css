@@ -6,10 +6,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-body {
-  font-size: 15pt;
-  background: black;
-  color: #fff;
+
 
 }
 .container {
@@ -20,7 +17,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
   gap: 120px;
-  background: #27282c;
+  background: black;
 }
 
 .button {
